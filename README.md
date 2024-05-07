@@ -48,8 +48,7 @@ int main(void)
 	return 0; }
 ```
 ### OUTPUT :
-
-![323450163-dd6c33f8-bcbb-4bf9-8021-d4ac75e57e1c](https://github.com/nataraj26/Linux-Process-API-fork-wait-exec/assets/147514615/a1517d1b-4674-4bc0-85cf-a937a6990110)
+![alt text](image.png)
 
 ### C Program to create new process using Linux API system calls fork() and exit() :
 ~~~c
